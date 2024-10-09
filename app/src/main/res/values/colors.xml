@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="borrar"> #2d4c5c</color>
+    <color name="operaciones">#3b4b41</color>
+    <color name="botones">#202521</color>
+    <color name="equals">#235135</color>
+    <color name="cuerpo">#1a1c19</color>
+</resources>
