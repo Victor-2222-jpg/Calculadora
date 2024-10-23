@@ -38,6 +38,7 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/button_raiz"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
@@ -79,11 +80,11 @@
             android:layout_margin="4dp">
 
             <Button
+                android:id="@+id/button_ac"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:id="@+id/button_ac"
-                android:text="AC"
                 android:background="@android:color/transparent"
+                android:text="AC"
 
 
                 />
